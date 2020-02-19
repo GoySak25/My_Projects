@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="FirstCourseS21L104-Image upload form">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="FirstCourseS21L104-Image_upload_form"/>
+        <property name="java-output-path" value="/FirstCourseS21L104-Image upload form/build/classes"/>
+    </wb-module>
+</project-modules>
