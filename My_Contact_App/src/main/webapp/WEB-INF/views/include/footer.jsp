@@ -1,0 +1,1 @@
+&copy; [2019-2020] Copyright by My Contact App
